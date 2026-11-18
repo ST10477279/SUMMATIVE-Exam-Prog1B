@@ -1,0 +1,36 @@
+DATA LOG
+*****************************
+Customer Name: unathi
+Product: Restonic Barbados
+VAT: R 85.1
+COMMISSION: R 28.4
+TOTAL: R 680.4
+*****************************
+
+DATA LOG
+*****************************
+Customer Name: unathi
+Product: Cozy Nights Monarch
+VAT: R 85.1
+COMMISSION: R 28.4
+TOTAL: R 680.4
+*****************************
+
+DATA LOG
+*****************************
+Customer Name: Unathi
+Product: Cozy Nights Monarch
+VAT: R 1290112.1
+COMMISSION: R 430037.4
+TOTAL: R 10320896.4
+*****************************
+
+DATA LOG
+*****************************
+Customer Name: Unathi
+Product: Cozy Nights Monarch
+VAT: R 1350.0
+COMMISSION: R 450.0
+TOTAL: R 10800.0
+*****************************
+
